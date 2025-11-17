@@ -1,15 +1,6 @@
 // Add your javascript here
 import AOS from 'aos';
 
-// Declare global types for window functions
-declare global {
-	interface Window {
-		darkMode: boolean;
-		openMobileMenu: () => void;
-		closeMobileMenu: () => void;
-	}
-}
-
 window.darkMode = false;
 
 const stickyClasses = [];
