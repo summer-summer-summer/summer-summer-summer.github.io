@@ -1,0 +1,17 @@
+[
+	{
+		"dates": "9.2025 - Present",
+		"role": "Human factors intern",
+		"company": "Anker innovations corp ltd",
+		"description": "Conduct exploratory work on human factors engineering for Anker's various headphone products.",
+		"logo": "/assets/experiences/anker-logo.png"
+	},
+	{
+		"dates": "5.2025 - 9.2025",
+		"role": "AI product manager intern",
+		"company": "UBTECH robotics corp ltd",
+		"description": "Based on the needs of both the user and business sides, develop functional solutions, and collaborate with UI/UX/development/testing personnel to implement the functions, forming a closed loop.",
+		"logo": "/assets/experiences/ubtech-logo.png"
+	}
+
+]
